@@ -1,8 +1,0 @@
-Name: vaniglia-7.22
-Provider: bottles
-Channel: stable
-File:
-- file_name: vaniglia-7.22-x86_64.tar.gz
-  url: https://github.com/bottlesdevs/wine/releases/download/7.22/vaniglia-7.22-x86_64.tar.gz
-  file_checksum: 5207026198711e56d3591ce55430ec5c
-  rename: vaniglia-7.22-x86_64.tar.gz
